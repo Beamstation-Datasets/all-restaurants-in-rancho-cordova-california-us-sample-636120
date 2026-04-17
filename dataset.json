@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Rancho Cordova, California. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Rancho Cordova, California, US",
+  "export_job_id": "929e34e6-3a48-4b35-b153-be67fa810ac4",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 636120,
+  "location_name": "Rancho Cordova",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-rancho-cordova-california-us-sample-636120",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/636120/beamstation_636120_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 27,
+  "sample_sha256": "b7269753e3ba44fdae0dce62fc8f8e8212004e3226cd99ba18b4300bded089be",
+  "sample_size_bytes": 114849,
+  "total_records": 271,
+  "updated_at": "2026-04-14T18:16:22.864376+00:00"
+}
