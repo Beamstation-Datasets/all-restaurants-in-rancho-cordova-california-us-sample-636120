@@ -1,6 +1,6 @@
 # All Restaurants in Rancho Cordova, California, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 19 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `636120` |
 | Location | Rancho Cordova |
 | Category | Restaurants |
-| Full dataset size | 271 records |
-| Free sample size | 27 records (9.96%) |
-| Last export | 2026-04-14T18:16:22.864376+00:00 |
+| Full dataset size | 196 records |
+| Free sample size | 19 records (9.69%) |
+| Last export | 2026-04-21T20:06:59.888385+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rancho-cordova-california-us-sample-636120/releases/download/sample-latest/beamstation_636120_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
