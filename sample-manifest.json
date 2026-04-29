@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8db8a663-2dec-4825-8f15-6528d88cc382",
+  "export_job_id": "24cb788f-db47-4d84-a8cb-4b9339addb7b",
   "id_short": 636120,
-  "published_at": "2026-04-22T07:47:49Z",
+  "published_at": "2026-04-29T07:52:10Z",
   "repo_name": "all-restaurants-in-rancho-cordova-california-us-sample-636120",
   "sample_asset_name": "beamstation_636120_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/636120/beamstation_636120_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "1e1eeef79c03873b1cfbdda8f3c1a9895cf86b9880fb9ce67c7975b58f27d6c4",
-  "sample_size_bytes": 85398,
-  "total_records": 196
+  "sample_records": 26,
+  "sample_sha256": "115ab2f047b4f3807d96f0585081d2b7194c3bc6ab1ded5961031132bbda1df0",
+  "sample_size_bytes": 114481,
+  "total_records": 267
 }
